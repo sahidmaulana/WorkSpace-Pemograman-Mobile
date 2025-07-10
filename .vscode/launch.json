@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "srm_my_movie",
+            "cwd": "srm_my_movie",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "srm_my_movie (profile mode)",
+            "cwd": "srm_my_movie",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "srm_my_movie (release mode)",
+            "cwd": "srm_my_movie",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "srm_pong_game",
+            "cwd": "srm_pong_game",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "srm_pong_game (profile mode)",
+            "cwd": "srm_pong_game",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "srm_pong_game (release mode)",
+            "cwd": "srm_pong_game",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "srm_productivity_timer",
+            "cwd": "srm_productivity_timer",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "srm_productivity_timer (profile mode)",
+            "cwd": "srm_productivity_timer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "srm_productivity_timer (release mode)",
+            "cwd": "srm_productivity_timer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "srm_shopping_list",
+            "cwd": "srm_shopping_list",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "srm_shopping_list (profile mode)",
+            "cwd": "srm_shopping_list",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "srm_shopping_list (release mode)",
+            "cwd": "srm_shopping_list",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
